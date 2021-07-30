@@ -1,1 +1,1 @@
-Robofriends app from ZTM course /React/.
+Robofriends app from the ZTM course /React/

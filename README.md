@@ -1,3 +1,3 @@
 Robofriends
 
-ZTM project that is built with [React](https://reactjs.org/).
+ZTM project built with [React](https://reactjs.org/).

@@ -1,1 +1,3 @@
-Robofriends app from the ZTM course /React/
+Robofriends
+
+ZTM project that is built with [React](https://reactjs.org/).
